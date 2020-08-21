@@ -20,10 +20,10 @@
 funcionalidades de integração com a API: listagem de produtos, cadastro de produto,
 edição de produto, e informações do produto.
 
-###Requisitos
+### Requisitos
   - Angular 10
   - HTML
   - Sass
 
-Comando para iniciar o docker
+### Comando para iniciar o docker
 docker-compose -f "stack.yml" up -d
