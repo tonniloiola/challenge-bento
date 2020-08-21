@@ -24,3 +24,6 @@ edição de produto, e informações do produto.
   - Angular 10
   - HTML
   - Sass
+
+Comando para iniciar o docker
+docker-compose -f "stack.yml" up -d
